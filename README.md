@@ -61,8 +61,8 @@
 ## Output:
 ![image](https://github.com/d-kavinraja/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119875375/850ae77c-e05b-4eb4-8b46-d21595b6bdc4)
 
-### Name: Kavinraja D
-### Register Number: 212222240047
+### Name: Vignesh M
+### Register Number: 2122223240176
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
